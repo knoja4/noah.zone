@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://www.noah.zone/"
 languageCode = "en-us"
 title = "My Awesome Static Site"
 # Define how many pages appear per site
