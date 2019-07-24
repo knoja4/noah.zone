@@ -18,9 +18,7 @@ theme = "hugo-minimalist-theme"
     header_background = "img/WHDQ-512258032.png"
     header_title = "My Awesome Static Site"
     copyright = "Powered by [Hugo](http://gohugo.io)."
-    custom_css = [
-        .site-header {background: #2a373d url(../img/WHDQ-512258032.png) no-repeat center center;}
-    ]
+    custom_css = ["custom.css"]
     custom_js  = []
 
     # Enable gogle analytics by entering your tracking code
